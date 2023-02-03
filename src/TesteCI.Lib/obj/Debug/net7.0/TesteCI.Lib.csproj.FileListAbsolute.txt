@@ -1,0 +1,12 @@
+C:\Projects\TesteCI\src\TesteCI.Lib\bin\Debug\net7.0\TesteCI.Lib.deps.json
+C:\Projects\TesteCI\src\TesteCI.Lib\bin\Debug\net7.0\TesteCI.Lib.dll
+C:\Projects\TesteCI\src\TesteCI.Lib\bin\Debug\net7.0\TesteCI.Lib.pdb
+C:\Projects\TesteCI\src\TesteCI.Lib\obj\Debug\net7.0\TesteCI.Lib.csproj.AssemblyReference.cache
+C:\Projects\TesteCI\src\TesteCI.Lib\obj\Debug\net7.0\TesteCI.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TesteCI\src\TesteCI.Lib\obj\Debug\net7.0\TesteCI.Lib.AssemblyInfoInputs.cache
+C:\Projects\TesteCI\src\TesteCI.Lib\obj\Debug\net7.0\TesteCI.Lib.AssemblyInfo.cs
+C:\Projects\TesteCI\src\TesteCI.Lib\obj\Debug\net7.0\TesteCI.Lib.csproj.CoreCompileInputs.cache
+C:\Projects\TesteCI\src\TesteCI.Lib\obj\Debug\net7.0\TesteCI.Lib.dll
+C:\Projects\TesteCI\src\TesteCI.Lib\obj\Debug\net7.0\refint\TesteCI.Lib.dll
+C:\Projects\TesteCI\src\TesteCI.Lib\obj\Debug\net7.0\TesteCI.Lib.pdb
+C:\Projects\TesteCI\src\TesteCI.Lib\obj\Debug\net7.0\ref\TesteCI.Lib.dll
