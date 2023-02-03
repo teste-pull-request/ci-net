@@ -2,4 +2,4 @@ src/TesteCI.Lib/bin
 src/TesteCI.Lib/obj
 src/TesteCI.Teste/bin
 src/TesteCI.Teste/obj
-.vscode/*
+.vscode
