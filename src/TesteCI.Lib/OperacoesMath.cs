@@ -11,5 +11,10 @@ namespace TesteCI.Lib
         {
             return a + b;
         }
+
+        public int Subtracao(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
